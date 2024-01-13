@@ -1,0 +1,8 @@
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/CMakeFiles/pokerbot.dir
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/CMakeFiles/edit_cache.dir
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/CMakeFiles/rebuild_cache.dir
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/libs/CMakeFiles/edit_cache.dir
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/libs/CMakeFiles/rebuild_cache.dir
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/libs/skeleton/CMakeFiles/skeleton.dir
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/libs/skeleton/CMakeFiles/edit_cache.dir
+/Users/dianeba3/Desktop/FIFTH_YEAR/pkr-bot-dianeba3/cpp_skeleton/build/libs/skeleton/CMakeFiles/rebuild_cache.dir
