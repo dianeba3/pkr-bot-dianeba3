@@ -92,14 +92,7 @@ class Player(Bot):
         my_contribution = STARTING_STACK - my_stack  # the number of chips you have contributed to the pot
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
 
-        if RaiseAction in legal_actions:
-            min_raise, max_raise = round_state.raise_bounds()
-            return RaiseAction(min_raise)
-        elif CheckAction in legal_actions:
-            return CheckAction()
-        elif continue_cost<2 and CallAction in legal_actions:
-            return CallAction()
-        else:
+        if FoldAction in legal_actions:
             return FoldAction()
 
 
