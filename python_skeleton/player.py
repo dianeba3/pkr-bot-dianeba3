@@ -94,7 +94,13 @@ class Player(Bot):
 
         if RaiseAction in legal_actions:
             min_raise, max_raise = round_state.raise_bounds()
-            return RaiseAction(min_raise)
+            if min_raise<10:
+                return RaiseAction(min_raise)
+            else:
+                if CheckAction in legal_actions:
+                    return CheckAction()
+                else:
+                    return FoldAction()
         elif CheckAction in legal_actions:
             return CheckAction()
         elif continue_cost<2 and CallAction in legal_actions:
